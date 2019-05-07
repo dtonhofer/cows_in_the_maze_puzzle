@@ -2,7 +2,9 @@
 
 ## What is this
 
-Solve the "Cows in the Maze" puzzle from "Mathematical Recreations", _Scientific American_, December 1996. This is a puzzle that originally appeared in Robert Abbott's book _Supermazes_ (Prima Publishing, Rocklin, California, 1996) ([review](http://www.logicmazes.com/super.html)). There is a [Wikipedia reference](https://en.wikipedia.org/wiki/Robert_Abbott_(game_designer)#Where_Are_the_Cows?) for this puzzle.
+Solve the "Cows in the Maze" puzzle from the section "Mathematical Recreations" of _Scientific American_, December 1996. 
+
+The puzzle originally appeared in Robert Abbott's book _Supermazes_ (Prima Publishing, Rocklin, California, 1996) ([review](http://www.logicmazes.com/super.html)). There is a [Wikipedia reference](https://en.wikipedia.org/wiki/Robert_Abbott_(game_designer)#Where_Are_the_Cows?) for this puzzle. The author of this "Mathemtical Recreations" installment, Ian Stewart, has written a book with the [eponymous title "Cows in the Maze"](https://global.oup.com/academic/product/cows-in-the-maze-9780199562077?cc=lu&lang=en&).
 
 This is an early coding effort, written in December 1996. In C++. Today I would do it in Prolog. I had modernize it a bit so that it compiles with GNU C++ Compiler. 
 
